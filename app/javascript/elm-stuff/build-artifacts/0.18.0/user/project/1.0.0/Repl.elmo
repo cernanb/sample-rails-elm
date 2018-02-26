@@ -1,0 +1,12 @@
+var _user$project$Repl$under70 = function (_p0) {
+	var _p1 = _p0;
+	return _elm_lang$core$Native_Utils.cmp(_p1.age, 70) < 0;
+};
+var _user$project$Repl$t_s_o_l = {ctor: '_Tuple0'};
+var _user$project$Repl$point = {x: 3, y: 4};
+var _user$project$Repl$cernan = {name: 'Cernan'};
+var _user$project$Repl$d_e_l_t_r_o_n_3_0_3_0 = _user$project$Repl$cernan;
+var _user$project$Repl$bill = {name: 'Gates', age: 57};
+var _user$project$Repl$addS = function (person) {
+	return A2(_elm_lang$core$Basics_ops['++'], person.name, 's');
+};
